@@ -1,0 +1,40 @@
+body {
+background-size: cover;
+background-position: center;
+}
+
+canvas {
+    box-shadow: 10px 10px 25px black;
+    border: 5px solid aqua;
+    border-radius: 15px;
+}
+
+.heading
+{
+font-size: 35px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+margin-left: 200px;
+}
+
+a{
+    width:50%;
+    height:40px;
+    font-size: 20px !important;
+    border: 5px solid green;
+    border-radius: 25px !important;
+}
+
+.hall{
+    width:10%;
+    height:50px;
+    font-size: 25px !important;
+    border-radius: 25px !important;
+    float:right;
+}
+
